@@ -56,10 +56,11 @@ Aşağıdaki listeyi kopyalayın ve bu sayfaya yapıştırın. Listenin sağ üs
 *://www.gunes.com/*
 *://www.haber7.com/*
 *://www.ahaber.com.tr/*
+*://www.haberturk.com/*
 ```
 
 Kopyala yapıştırmayı yaptıktan sonra sayfa aşağıdaki gibi görünecektir. Sağ alttaki "save", yani "kaydet" kısmına da tıklayın.
 
-<img width="553" alt="save_2" src="https://github.com/user-attachments/assets/1f1d70fb-e2eb-4f95-bd09-3f16c4f0d5ef" />
+<img width="542" alt="save" src="https://github.com/user-attachments/assets/0fa99dea-3ce1-433c-9f9a-d7121524b33f" />
 
 Artık yandaş medya siteleri Google araması sonuçlarınızda çıkmayacaktır.
